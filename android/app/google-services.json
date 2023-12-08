@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569418334295",
+    "project_id": "asynconf-8700c",
+    "storage_bucket": "asynconf-8700c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569418334295:android:9cf8f26c4b44928cc4e312",
+        "android_client_info": {
+          "package_name": "com.example.asyncof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569418334295-nc6nf64cjf3nr8av8auq35opco0sjptm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0K9vdJi0-PfNQvrxx9096XH6-n3cQfXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569418334295-nc6nf64cjf3nr8av8auq35opco0sjptm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
